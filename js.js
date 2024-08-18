@@ -10,3 +10,6 @@ var age = getAge(new Date(2004, 04, 07));
 
 document.getElementById("age").innerHTML = age;
 //
+
+
+
